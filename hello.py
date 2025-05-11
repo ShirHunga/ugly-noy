@@ -1,2 +1,1 @@
-print('Hello world!!!!!')
-print("wewewewe")
+print("noy is the best")
